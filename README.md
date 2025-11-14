@@ -16,6 +16,10 @@ TP2 - Deutsch - Jozsa
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thomastuloup/quantum_labs_polytech_saclay/blob/main/TPs/TP2_DeutschJozsa.ipynb)
 
+TP2 - Deutsch - Jozsa - Corrigé:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thomastuloup/quantum_labs_polytech_saclay/blob/main/TPs/TP2_DeutschJozsa_corrigé.ipynb)
+
 TP3 - Grover
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thomastuloup/quantum_labs_polytech_saclay/blob/main/TPs/TP3_Grover.ipynb)
