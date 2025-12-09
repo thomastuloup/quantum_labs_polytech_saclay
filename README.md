@@ -36,7 +36,7 @@ TP4 - Quantum Fourier Transform - Corrigé
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thomastuloup/quantum_labs_polytech_saclay/blob/main/TPs/TP4_QFT_corrigé.ipynb)
 
-TP5 - Evalutation
+TP5 - Evaluation
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/thomastuloup/quantum_labs_polytech_saclay/blob/main/TPs/TP5_Evaluation.ipynb)
 
